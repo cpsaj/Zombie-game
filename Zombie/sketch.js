@@ -4,7 +4,7 @@ let skyTexture;
 function preload()
 {
   sandTexture = loadImage("stylizedSand.jpg");
-  skyTexture = loadImage("Summer.jpg");
+  skyTexture = loadImage("Wedding Day Blues.jpg");
 }
 
 function setup() 
